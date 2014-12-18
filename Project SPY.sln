@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project SPY", "Project SPY\Project SPY.vcxproj", "{CB5086D3-EB87-41A5-9492-5D459E3F1ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB5086D3-EB87-41A5-9492-5D459E3F1ADF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB5086D3-EB87-41A5-9492-5D459E3F1ADF}.Debug|Win32.Build.0 = Debug|Win32
+		{CB5086D3-EB87-41A5-9492-5D459E3F1ADF}.Release|Win32.ActiveCfg = Release|Win32
+		{CB5086D3-EB87-41A5-9492-5D459E3F1ADF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

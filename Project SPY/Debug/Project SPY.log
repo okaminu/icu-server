@@ -1,0 +1,9 @@
+﻿  ProjectSPY.cpp
+c:\users\aurimas\desktop\aurimas\07.vdu if\programing\c++\pabaigti darbai\project spy\project spy\project spy\projectspy.cpp(332): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+c:\users\aurimas\desktop\aurimas\07.vdu if\programing\c++\pabaigti darbai\project spy\project spy\project spy\projectspy.cpp(429): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+c:\users\aurimas\desktop\aurimas\07.vdu if\programing\c++\pabaigti darbai\project spy\project spy\project spy\projectspy.cpp(435): warning C4018: '>' : signed/unsigned mismatch
+c:\users\aurimas\desktop\aurimas\07.vdu if\programing\c++\pabaigti darbai\project spy\project spy\project spy\projectspy.cpp(457): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          d:\program files\microsoft visual studio 2010\vc\include\string.h(246) : see declaration of 'stricmp'
+c:\users\aurimas\desktop\aurimas\07.vdu if\programing\c++\pabaigti darbai\project spy\project spy\project spy\projectspy.cpp(476): warning C4244: 'argument' : conversion from 'double' to 'DWORD', possible loss of data
+  LINK : C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C++\Pabaigti darbai\Project SPY\Project SPY\Debug\Project SPY.exe not found or not built by the last incremental link; performing full link
+  Project SPY.vcxproj -> C:\Users\Aurimas\Desktop\Aurimas\07.VDU IF\Programing\C++\Pabaigti darbai\Project SPY\Project SPY\Debug\Project SPY.exe
